@@ -10,7 +10,7 @@ var swiper = new Swiper(".slide-container", {
     el: ".swiper-pagination",
     clickable: true,
     dynamicBullets: true,
-  },
+  }, 
   navigation: {
     nextEl: ".swiper-button-next",
     prevEl: ".swiper-button-prev",
